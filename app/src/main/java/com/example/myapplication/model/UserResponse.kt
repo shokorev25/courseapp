@@ -5,5 +5,5 @@ data class UserResponse(
     val id: Int,
     val username: String,
     val role: String,
-    val studentId: Int?       // новое поле
+    val studentId: Int?       
 )
